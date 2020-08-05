@@ -1,5 +1,5 @@
 # mafa
-Reimplementing some of the most famous matrix factorizations from scratch. My implementations are tested against `numpy`, `scipy` and `sympy` equivalents. Matrix factorization, or matrix decomposition, is a way of reducing a matrix into its constituent parts. It is an approach that can simplify more complex matrix operations that can be performed on the decomposed matrix rather than on the original matrix itself.
+Matrix factorization, or matrix decomposition, is a way of reducing a matrix into its constituent parts. It is an approach that can simplify more complex matrix operations that can be performed on the decomposed matrix rather than on the original matrix itself.
 
 ## Contents
 * [**LU**](https://github.com/joaopaulq/mafa/blob/master/src/lu.py): **L** is a lower triangular or trapezoidal matrix with unit diagonal, **U** is an upper triangular or trapezodial matrix with pivots on the diagonal.
