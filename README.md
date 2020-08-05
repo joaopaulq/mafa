@@ -1,7 +1,7 @@
 # factorization
 
 ## Contents
-* [**LU**](https://github.com/joaopaulq/factorization/blob/master/src/qr.lu): **L** is a lower triangular matrix with 1's on the diagonal, **U** is an upper triangular matrix with pivots on the diagonal.
+* [**LU**](https://github.com/joaopaulq/factorization/blob/master/src/qr.lu): **L** is a lower triangular or trapezoidal matrix with unit diagonal, **U** is an upper triangular or trapezodial matrix with pivots on the diagonal.
 * [**QR**](https://github.com/joaopaulq/factorization/blob/master/src/qr.py): **Q** is a matrix with orthonormal columns, **R** is an upper triangular or trapezodial matrix.
 
 ## Resources
