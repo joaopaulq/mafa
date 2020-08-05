@@ -1,7 +1,7 @@
 # factorization
 
 ## Contents
-* [**LU**](https://github.com/joaopaulq/factorization/blob/master/src/qr.lu): **L** is lower triangular with 1's on the diagonal. **U** is upper triangular with pivots on the diagonal
+* [**LU**](https://github.com/joaopaulq/factorization/blob/master/src/qr.lu): **L** is lower triangular with 1's on the diagonal, **U** is upper triangular with pivots on the diagonal.
 * [**QR**](https://github.com/joaopaulq/factorization/blob/master/src/qr.py): **Q** has orthonormal columns, **R** is upper triangular.
 
 ## Resources
