@@ -1,4 +1,4 @@
-# factorization
+# mafa
 
 ## Contents
 * [**LU**](https://github.com/joaopaulq/factorization/blob/master/src/qr.lu): **L** is a lower triangular or trapezoidal matrix with unit diagonal, **U** is an upper triangular or trapezodial matrix with pivots on the diagonal.
