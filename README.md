@@ -8,3 +8,4 @@ Matrix factorization, or matrix decomposition, is a way of reducing a matrix int
 ## Resources
 * [MIT 18.06 - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [Matrix Factorizations](http://math.mit.edu/~gs/linearalgebra/linearalgebra5_Matrix.pdf)
+* [Numerical Linear Algebra](https://www.amazon.com.br/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
