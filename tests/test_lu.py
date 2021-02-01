@@ -13,7 +13,7 @@ class LUTest(unittest.TestCase):
             m, n = rd.randrange(1, 8), rd.randrange(1, 8)
             A = np.random.randn(m, n)
             expected_l, expected_u = np.linalg.lu(A)
-            actual_l, actual_u = lu.gaussian(A)
+            actual_l, actual_u = lu.forward_substitution(A)
             self.assertTrue(np.allclose(expected_l, actual_l))
             self.assertTrue(np.allclose(expected_u, actual_u))
 
