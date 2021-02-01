@@ -1,7 +1,6 @@
 import unittest
 import random as rd
 import numpy as np
-import sympy as sp
 
 from src import lu
 
